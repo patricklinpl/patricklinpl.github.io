@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitæ
+title: Projects
 layout: cv
 actions:
   - label: "Download as PDF"
