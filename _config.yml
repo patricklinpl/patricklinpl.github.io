@@ -28,6 +28,8 @@ github_username: patricklinpl
 linkedin_username: patricklinpl
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
+permalink: /:title/
+
 # Build settings
 markdown: kramdown
 plugins:
