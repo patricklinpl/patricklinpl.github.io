@@ -21,9 +21,8 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://www.patricklin.ca
 author:
   name: Patrick Lin
+  twitter: patricklinpl
   picture: /assets/images/patricklin.jpg
-  twitter:
-  picture:
 twitter_username: patricklinpl
 github_username: patricklinpl
 linkedin_username: patricklinpl
