@@ -20,7 +20,8 @@ description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://www.patricklin.ca
 author:
-  name:
+  name: Patrick Lin
+  picture: /assets/images/patricklin.jpg
   twitter:
   picture:
 twitter_username: patricklinpl
