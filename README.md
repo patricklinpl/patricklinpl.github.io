@@ -2,6 +2,34 @@
 
 Source for patricklin.ca
 
+## Linux 
+
+### Update 
+
+```
+$ sudo apt-get upgrade 
+```
+
+### Firewall
+
+#### Available applications  
+
+```
+$ sudo ufw app list
+```
+
+#### Authorize application
+
+```
+$ sudo ufw allow
+```
+
+#### Check Status 
+
+```
+$ sudo ufw status
+```
+
 ## Digital Ocean 
 
 Based on:
