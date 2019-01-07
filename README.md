@@ -42,7 +42,6 @@ Based on:
 
 ```
 $ ssh root@your_droplet_ip
-$ ssh plin@138.68.14.122
 ```
 
 ### Generate SSH Keys 
