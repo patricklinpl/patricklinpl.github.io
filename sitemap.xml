@@ -8,17 +8,14 @@
   
   <url>
     <loc>https://patricklinpl.github.io/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://patricklinpl.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://patricklinpl.github.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -27,7 +24,6 @@
   
   <url>
     <loc>https://patricklinpl.github.io/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -40,7 +36,6 @@
   
   <url>
     <loc>https://patricklinpl.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
