@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patricklinpl.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/authors/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/categories/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://patricklinpl.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
