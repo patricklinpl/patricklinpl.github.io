@@ -7,7 +7,7 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
       <title>Authors</title>
       <link>https://patricklinpl.github.io/authors/</link>
     </image>
